@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henry Udezuligbo a Full-Stack Engineer
 - 👀 I’m interested in Python, Django, FastAPI, React, Nextjs
 - 🌱 I’m currently learning java & spring boot
-- 📫 How to reach me https://hudeh.com
+- 📫 How to reach me https://henryudezuligbo.com
 
 <!---
 Hudeh/Hudeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
