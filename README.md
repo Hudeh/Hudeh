@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henry Udezuligbo a Full-Stack Engineer
+- 👋 Hi, I’m a Full-Stack Engineer
 - 👀 I’m interested in Python, Django, FastAPI, React, Nextjs
 - 🌱 I’m currently learning java & spring boot
 - 📫 How to reach me [https://www.linkedin.com/in/henry-udezuligbo-b7b4031aa/]
